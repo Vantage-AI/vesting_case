@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapper100/vesting_case/master?filepath=notebooks%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vantage-AI/vesting_case/master?filepath=notebooks%2Findex.ipynb)
 
 # VESTING Career Experience Morning Case
 
